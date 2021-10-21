@@ -12,7 +12,7 @@ If you create a project from the scratch, we will be happy to provide you a supp
 
 We also do SEO, and SMM.
 
-Go to https://codex.gq/#contact to submit a request.
+Please visit our **[official website](https://codex.gq/)** to submit an order or ask a question.
 
 See you in the Cloud,
 
