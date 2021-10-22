@@ -58,7 +58,7 @@ if($_POST) {
         $recipient = "finance@codex.gq";
     }
     else if($department == "sales") {
-        $recipient = "sales@codex.gq";
+        $recipient = "codexgq@gmail.com";
     }
     else if($department == "technical_support") {
         $recipient = "support@codex.gq";
