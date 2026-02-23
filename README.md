@@ -1,1 +1,1 @@
-`digital inqubator | acquired as lasagna`
+codexgq, Inc. delivers Business Consulting and IT Consulting services focused on Venture Building and M&A Advisory. We create liquid AI-assets through Exit-Driven Design, AI Governance, and scalable SaaS architecture — preparing startups for integration into Tier-1 corporate ecosystems.
